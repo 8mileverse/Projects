@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/Digital Clock.Html"
+status = 200
